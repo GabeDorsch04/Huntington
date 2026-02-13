@@ -25,3 +25,33 @@ Producer price index by commodity: Fuels and power
     
 Total Constuction Spending in USA
     TTLCONS.csv- Spending in millions of dollars, Seasonally Adjusted Annual Rate, monthly, https://fred.stlouisfed.org/series/TTLCONS
+
+Natural Gas Prices
+    MHHNGSP.csv- Henry Hub Natural Gas Spot Price, Dollars per Million Btu, Not Seasonally Adjusted, monthly-https://fred.stlouisfed.org/series/MHHNGSP
+
+Global Oil Prices
+    POILBREUSDM.csv- Global Price of Brent Crude, Dollars per Barrel, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/POILBREUSDM
+
+Gasoline Prices
+    GASREGCOVM.csv- US Regular All Formulations Gas Price, Dollars per Gallon, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/GASREGCOVM
+
+Industrial Production Oil & Gas
+    IPG211111CN.csv- Industrial Production: Mining: Crude Oil & Natural Gas, Index 2017=100, Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/IPG211111CN
+
+Crude Oil Inventories
+    MCRUSA.csv- U.S. Ending Stocks of Crude Oil, Thousands of Barrels, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/MCRUSA
+
+Drilling Activity
+    M13HSB000USM280NNBR.csv- Crude Oil Rigs in Operation, Count, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/M13HSB000USM280NNBR
+
+Consumer Sentiment
+    UMCSENT.csv- University of Michigan: Consumer Sentiment, Index 1966:Q1=100, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/UMCSENT
+
+Energy Inflation
+    CPIENGSL.csv- CPI: Energy, Index 1982-1984=100, Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/CPIENGSL
+
+Currency Strength
+    DTWEXBGS.csv- Trade Weighted U.S. Dollar Index: Goods and Services, Index Jan 2006=100, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/DTWEXBGS
+
+Long Term Interest Rates
+    GS10.csv- Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Percent, Not Seasonally Adjusted, monthly- https://fred.stlouisfed.org/series/GS10
